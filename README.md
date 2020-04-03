@@ -1,4 +1,4 @@
-# ocnx
+# ocrx
 
 ## Installation
 ```shell script
