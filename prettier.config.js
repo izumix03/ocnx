@@ -2,16 +2,16 @@ module.exports = {
   printWidth: 100,
   semi: false,
   singleQuote: true,
-  trailingComma: "all",
+  trailingComma: 'all',
   overrides: [
     {
-      files: "*.{md,yml}",
+      files: '*.{md,yml}',
       options: {
         printWidth: 80,
         semi: true,
         singleQuote: false,
-        trailingComma: "none"
-      }
-    }
-  ]
-};
+        trailingComma: 'none',
+      },
+    },
+  ],
+}
